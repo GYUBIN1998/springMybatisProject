@@ -2,7 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+<<<<<<< HEAD
 			<item value="C:\Users\1-22\Desktop\박진경\big_data_study_\spring_workspace\springMybatisProject\springProject3"/>
+=======
+>>>>>>> 366c4f8e8c8e12c0e14795f27d8617830ddf96b8
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
