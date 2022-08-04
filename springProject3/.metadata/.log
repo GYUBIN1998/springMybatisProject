@@ -1,8 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 !SESSION 2022-08-04 10:34:13.900 -----------------------------------------------
 =======
 !SESSION 2022-08-04 10:47:50.980 -----------------------------------------------
 >>>>>>> 366c4f8e8c8e12c0e14795f27d8617830ddf96b8
+=======
+!SESSION 2022-08-04 10:47:50.980 -----------------------------------------------
+=======
+!SESSION 2022-08-04 10:34:13.900 -----------------------------------------------
+>>>>>>> d88a0c8db83573fd293ae15a4843a74b61e8afb6
+>>>>>>> 806f498138df6c2f6923157bc40442c8b00e53d5
 eclipse.buildId=4.15.1.202206171354
 java.version=17.0.3
 java.vendor=Eclipse Adoptium
@@ -10,6 +17,7 @@ BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
 Framework arguments:  -product org.springframework.boot.ide.branding.sts4
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.eclipse.jface 2 0 2022-08-04 10:34:43.988
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
@@ -19,16 +27,33 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springfra
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-08-04 10:48:10.888
 >>>>>>> 366c4f8e8c8e12c0e14795f27d8617830ddf96b8
+=======
+!ENTRY org.eclipse.jface 2 0 2022-08-04 10:48:10.888
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-04 10:48:10.888
+=======
+!ENTRY org.eclipse.jface 2 0 2022-08-04 10:34:43.988
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-04 10:34:43.988
+>>>>>>> d88a0c8db83573fd293ae15a4843a74b61e8afb6
+>>>>>>> 806f498138df6c2f6923157bc40442c8b00e53d5
 !MESSAGE A conflict occurred for CTRL+SHIFT+T:
 Binding(CTRL+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
 		Open a type in a Java editor,
 		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1c06f19c,
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@70044113,
 >>>>>>> 366c4f8e8c8e12c0e14795f27d8617830ddf96b8
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@70044113,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1c06f19c,
+>>>>>>> d88a0c8db83573fd293ae15a4843a74b61e8afb6
+>>>>>>> 806f498138df6c2f6923157bc40442c8b00e53d5
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
@@ -37,11 +62,21 @@ Binding(CTRL+SHIFT+T,
 		,
 		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@18ffc008,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-08-04 10:48:10.888
+=======
+>>>>>>> 806f498138df6c2f6923157bc40442c8b00e53d5
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3065efd0,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-08-04 10:34:43.988
+<<<<<<< HEAD
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@18ffc008,
 		,,true),null),
@@ -49,16 +84,26 @@ Binding(CTRL+SHIFT+T,
 	org.eclipse.ui.contexts.window,,,system)
 !SUBENTRY 1 org.eclipse.jface 2 0 2022-08-04 10:48:10.888
 >>>>>>> 366c4f8e8c8e12c0e14795f27d8617830ddf96b8
+=======
+>>>>>>> d88a0c8db83573fd293ae15a4843a74b61e8afb6
+>>>>>>> 806f498138df6c2f6923157bc40442c8b00e53d5
 !MESSAGE A conflict occurred for ALT+SHIFT+R:
 Binding(ALT+SHIFT+R,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
 		Rename the selected element,
 		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7aaf6bfd,
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4678ec43,
 >>>>>>> 366c4f8e8c8e12c0e14795f27d8617830ddf96b8
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4678ec43,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7aaf6bfd,
+>>>>>>> d88a0c8db83573fd293ae15a4843a74b61e8afb6
+>>>>>>> 806f498138df6c2f6923157bc40442c8b00e53d5
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
@@ -67,14 +112,22 @@ Binding(ALT+SHIFT+R,
 		Rename the selected item,
 		Category(org.eclipse.ui.category.file,File,null,true),
 <<<<<<< HEAD
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4a8bf1dc,
 =======
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@694f0655,
 >>>>>>> 366c4f8e8c8e12c0e14795f27d8617830ddf96b8
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@694f0655,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4a8bf1dc,
+>>>>>>> d88a0c8db83573fd293ae15a4843a74b61e8afb6
+>>>>>>> 806f498138df6c2f6923157bc40442c8b00e53d5
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 !ENTRY org.eclipse.egit.ui 2 0 2022-08-04 10:34:46.021
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
@@ -84,13 +137,30 @@ user global configuration and to define the default location to store repositori
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\kvpar'. If this is
 >>>>>>> 366c4f8e8c8e12c0e14795f27d8617830ddf96b8
+=======
+!ENTRY org.eclipse.egit.ui 2 0 2022-08-04 10:48:18.879
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\kvpar'. If this is
+=======
+!ENTRY org.eclipse.egit.ui 2 0 2022-08-04 10:34:46.021
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\1-22'. If this is
+>>>>>>> d88a0c8db83573fd293ae15a4843a74b61e8afb6
+>>>>>>> 806f498138df6c2f6923157bc40442c8b00e53d5
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 !ENTRY org.eclipse.ui 2 2 2022-08-04 10:37:35.070
 =======
 !ENTRY org.eclipse.ui 2 2 2022-08-04 10:48:42.892
 >>>>>>> 366c4f8e8c8e12c0e14795f27d8617830ddf96b8
+=======
+!ENTRY org.eclipse.ui 2 2 2022-08-04 10:48:42.892
+=======
+!ENTRY org.eclipse.ui 2 2 2022-08-04 10:37:35.070
+>>>>>>> d88a0c8db83573fd293ae15a4843a74b61e8afb6
+>>>>>>> 806f498138df6c2f6923157bc40442c8b00e53d5
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)

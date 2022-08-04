@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 2022-08-04 10:34:46,021 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 =======
 2022-08-04 10:48:17,957 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 >>>>>>> 366c4f8e8c8e12c0e14795f27d8617830ddf96b8
+=======
+2022-08-04 10:48:17,957 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+=======
+2022-08-04 10:34:46,021 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+>>>>>>> d88a0c8db83573fd293ae15a4843a74b61e8afb6
+>>>>>>> 806f498138df6c2f6923157bc40442c8b00e53d5

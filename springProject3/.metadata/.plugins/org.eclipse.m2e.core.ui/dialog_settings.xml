@@ -3,9 +3,15 @@
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<item value="C:\Users\1-22\Desktop\박진경\big_data_study_\spring_workspace\springMybatisProject\springProject3"/>
 =======
 >>>>>>> 366c4f8e8c8e12c0e14795f27d8617830ddf96b8
+=======
+=======
+			<item value="C:\Users\1-22\Desktop\박진경\big_data_study_\spring_workspace\springMybatisProject\springProject3"/>
+>>>>>>> d88a0c8db83573fd293ae15a4843a74b61e8afb6
+>>>>>>> 806f498138df6c2f6923157bc40442c8b00e53d5
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
